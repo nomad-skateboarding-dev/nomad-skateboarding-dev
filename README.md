@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... everything 
 - 🌱 I’m currently learning ... life again
 - 💞️ I’m looking to collaborate on ... good projects with good people
-- 📫 How to reach me ... https://nomadskateboarding.com
+- 📫 How to reach me ... https://nomadskateboarding.blog
 
 <!---
 nomad-skateboarding-dev/nomad-skateboarding-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
